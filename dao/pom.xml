@@ -28,7 +28,7 @@
         <lombok.version>1.16.8</lombok.version>
 
         <!--<maven.compiler.plugin.version>3.5.1</maven.compiler.plugin.version>-->
-        <spring.version>4.2.4.RELEASE</spring.version>
+        <spring.version>4.2.7.RELEASE</spring.version>
         <aspectj.version>1.8.9</aspectj.version>
 
     </properties>
