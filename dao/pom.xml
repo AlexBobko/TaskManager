@@ -12,7 +12,7 @@
     <packaging>jar</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <hibernate.version>4.3.6.Final</hibernate.version>
+        <hibernate.version>5.3.20.Final</hibernate.version>
         <!--<hibernate.version>4.3.9.Final</hibernate.version>-->
         <lang3.version>3.5</lang3.version>
         <log4j.version>1.2.17</log4j.version>
